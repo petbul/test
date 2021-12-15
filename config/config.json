@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xebb0773c3099be02cde4cdb2e31b028eb4d42467",
+  "SCAN_LINK": "https://polygonscan.com/token/0xebb0773c3099be02cde4cdb2e31b028eb4d42467",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "My Crypto Wheels",
+  "SYMBOL": "MCW",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mycryptowheels",
+  "SHOW_BACKGROUND": true
+}
